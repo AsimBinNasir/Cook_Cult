@@ -1,4 +1,4 @@
-// Main entry point for Cook_Cult application
+// Main entry point for CookCult application
 import './style.css';
 
 // Import all components

@@ -7,7 +7,7 @@ export function createNavigation() {
           <!-- Logo -->
           <div class="flex items-center">
             <div class="flex-shrink-0">
-              <h2 class="text-2xl font-bold text-primary-600">Cook_Cult</h2>
+              <h2 class="text-2xl font-bold text-primary-600">CookCult</h2>
             </div>
           </div>
           

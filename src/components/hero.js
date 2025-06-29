@@ -5,7 +5,7 @@ export function createHero() {
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center animate-fade-in">
           <h1 class="text-4xl md:text-6xl font-bold mb-6 text-shadow">
-            Welcome to Cook_Cult
+            Welcome to CookCult
           </h1>
           <p class="text-xl md:text-2xl mb-8 opacity-90 max-w-3xl mx-auto">
             Discover thousands of delicious recipes from around the world. Your culinary adventure starts here!
